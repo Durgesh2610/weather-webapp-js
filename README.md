@@ -1,5 +1,7 @@
 # weather-webapp-js
 A simple weather web app built using JavaScript that fetches real-time weather data from an API and displays the current weather conditions for any searched location. The app features an intuitive interface for easy interaction.
+![Screenshot (20)](https://github.com/user-attachments/assets/728a35be-7167-4f35-9be8-0bacf5ac1f39)
+
 
 1.Project Overview: Brief description of the app and its purpose.
 
